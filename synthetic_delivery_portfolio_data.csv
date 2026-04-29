@@ -1,0 +1,17 @@
+delivery_item_id,reporting_month,client_name,project_name,workstream,item_type,status,severity,sla_target_hours,actual_resolution_hours,blocked_flag,root_cause,sprint_throughput,recommended_action,sla_breach_flag,open_backlog_flag,high_severity_flag,risk_score
+DT001,2026-01-01,RetailCo,Cloud Modernization,Data Migration,Defect,Closed,Medium,24,18,0,Data mapping issue,32,Document mapping rules and add validation checks.,0,0,0,0
+DT002,2026-01-01,RetailCo,Cloud Modernization,API Integration,Incident,Blocked,High,12,31,1,Dependency on legacy API,21,Escalate legacy API dependency and create workaround plan.,1,1,1,100
+DT003,2026-01-01,HealthPlus,Analytics Platform,Reporting,Request,In Progress,Medium,48,42,0,Requirement clarification,18,Confirm KPI definitions with business owner.,0,1,0,25
+DT004,2026-01-01,HealthPlus,Analytics Platform,Data Quality,Defect,Open,Critical,8,22,1,Source data quality issue,14,Create data quality exception dashboard and ownership tracker.,1,1,1,100
+DT005,2026-02-01,BankOne,Automation Program,Workflow Automation,Request,Closed,Low,72,58,0,No major blocker,27,Reuse automation pattern for similar workflows.,0,0,0,0
+DT006,2026-02-01,BankOne,Automation Program,Testing,Defect,Blocked,High,16,45,1,Environment instability,16,Stabilize test environment and add release readiness checks.,1,1,1,100
+DT007,2026-02-01,RetailCo,Cloud Modernization,Data Migration,Defect,Closed,Medium,24,20,0,Data mapping issue,35,Continue automated validation for migration batches.,0,0,0,0
+DT008,2026-02-01,RetailCo,Cloud Modernization,API Integration,Incident,In Progress,High,12,19,1,Dependency on legacy API,22,Create dependency burn-down tracker for integration leadership.,1,1,1,100
+DT009,2026-03-01,HealthPlus,Analytics Platform,Reporting,Request,Closed,Low,48,36,0,Requirement clarification,25,Use standardized intake template for reporting requests.,0,0,0,0
+DT010,2026-03-01,HealthPlus,Analytics Platform,Data Quality,Defect,Blocked,Critical,8,28,1,Source data quality issue,13,Set data owner review cadence for recurring quality exceptions.,1,1,1,100
+DT011,2026-03-01,BankOne,Automation Program,Workflow Automation,Request,Closed,Medium,72,66,0,No major blocker,29,Scale automation playbook to next workflow group.,0,0,0,0
+DT012,2026-03-01,BankOne,Automation Program,Testing,Defect,Open,High,16,34,1,Environment instability,17,Create test environment health scorecard.,1,1,1,100
+DT013,2026-04-01,LogiTrans,Data Lake Implementation,Ingestion,Incident,Open,High,12,29,1,Pipeline failure,19,Add pipeline monitoring and automated failure alerts.,1,1,1,100
+DT014,2026-04-01,LogiTrans,Data Lake Implementation,Governance,Request,In Progress,Medium,72,54,0,Access approval delay,16,Create access approval SLA tracker.,0,1,0,25
+DT015,2026-04-01,RetailCo,Cloud Modernization,API Integration,Incident,Closed,Medium,12,10,0,Dependency on legacy API,26,Document resolution pattern for API incidents.,0,0,0,0
+DT016,2026-04-01,HealthPlus,Analytics Platform,Data Quality,Defect,In Progress,High,8,17,1,Source data quality issue,15,Prioritize upstream validation and source-system owner alignment.,1,1,1,100

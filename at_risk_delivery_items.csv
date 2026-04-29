@@ -1,0 +1,9 @@
+delivery_item_id,client_name,project_name,workstream,item_type,status,severity,root_cause,sla_target_hours,actual_resolution_hours,risk_score,recommended_action
+DT006,BankOne,Automation Program,Testing,Defect,Blocked,High,Environment instability,16,45,100,Stabilize test environment and add release readiness checks.
+DT012,BankOne,Automation Program,Testing,Defect,Open,High,Environment instability,16,34,100,Create test environment health scorecard.
+DT002,RetailCo,Cloud Modernization,API Integration,Incident,Blocked,High,Dependency on legacy API,12,31,100,Escalate legacy API dependency and create workaround plan.
+DT013,LogiTrans,Data Lake Implementation,Ingestion,Incident,Open,High,Pipeline failure,12,29,100,Add pipeline monitoring and automated failure alerts.
+DT010,HealthPlus,Analytics Platform,Data Quality,Defect,Blocked,Critical,Source data quality issue,8,28,100,Set data owner review cadence for recurring quality exceptions.
+DT004,HealthPlus,Analytics Platform,Data Quality,Defect,Open,Critical,Source data quality issue,8,22,100,Create data quality exception dashboard and ownership tracker.
+DT008,RetailCo,Cloud Modernization,API Integration,Incident,In Progress,High,Dependency on legacy API,12,19,100,Create dependency burn-down tracker for integration leadership.
+DT016,HealthPlus,Analytics Platform,Data Quality,Defect,In Progress,High,Source data quality issue,8,17,100,Prioritize upstream validation and source-system owner alignment.

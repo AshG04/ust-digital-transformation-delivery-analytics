@@ -1,0 +1,9 @@
+client_name,project_name,workstream,total_items,open_backlog,sla_breaches,high_severity_items,avg_resolution_hours,avg_risk_score,avg_sprint_throughput,sla_breach_rate,health_status
+BankOne,Automation Program,Testing,2,2,2,2,39.5,100.0,16.5,1.0,High Risk
+HealthPlus,Analytics Platform,Data Quality,3,3,3,3,22.3,100.0,14.0,1.0,High Risk
+LogiTrans,Data Lake Implementation,Ingestion,1,1,1,1,29.0,100.0,19.0,1.0,High Risk
+RetailCo,Cloud Modernization,API Integration,3,2,2,2,20.0,66.7,23.0,0.667,High Risk
+LogiTrans,Data Lake Implementation,Governance,1,1,0,0,54.0,25.0,16.0,0.0,Healthy
+HealthPlus,Analytics Platform,Reporting,2,1,0,0,39.0,12.5,21.5,0.0,Healthy
+BankOne,Automation Program,Workflow Automation,2,0,0,0,62.0,0.0,28.0,0.0,Healthy
+RetailCo,Cloud Modernization,Data Migration,2,0,0,0,19.0,0.0,33.5,0.0,Healthy

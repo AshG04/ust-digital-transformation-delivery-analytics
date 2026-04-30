@@ -1,4 +1,4 @@
-# UST Digital Transformation Delivery Analytics Work Sample
+# Digital Transformation Delivery Analytics Work Sample
 
 ## Overview
 This project is a SQL and Python analytics work sample designed for a UST-style digital transformation, data analytics, and client delivery environment.
